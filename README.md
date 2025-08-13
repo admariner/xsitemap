@@ -53,14 +53,6 @@ Will search for xml sitemap URL inside robots.txt
 
 Will check classic Wordpress sitemap urls
 
-## Tutorials
-
-/!\ Work in progress /!\ 
-
-English : https://www.gokam.co.uk/xsitemap-package/
-
-French : https://www.gokam.fr/xsitemap/
-
 
 ## Feedbacks
 Questions and feedbacks welcome!
