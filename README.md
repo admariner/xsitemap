@@ -9,7 +9,7 @@ This R' package aim to ease the work with XML sitemap and SEO related tasks. Tut
 ```
 #Github (dev version)
 library(devtools)
-devtools::install_github("pixgarden/xsitemap")
+devtools::install_github("fljoly/xsitemap")
 ```
 
 ## Getting started
